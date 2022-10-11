@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello World, i'm Luis Ballesteros👋
+*Backend Developer*
+<br/>
 
-<!--
-**LuisBall96/LuisBall96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Luis_Ballesteros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/luis-fernando-ballesteros-ballesteros](https://www.linkedin.com/in/luis-fernando-ballesteros-ballesteros-48071320a/))](https://www.linkedin.com/in/luis-fernando-ballesteros-ballesteros-48071320a/)  [![Outlook Badge](https://img.shields.io/badge/-luisballesteros96@outlook.es-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:luisballesteros96@outlook.es)](mailto:luisballesteros96@outlook.es)
 
-Here are some ideas to get you started:
+```javascript
+const Luis = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Express, Sequelize],
+  databases: [PostgreSQL]
+}
+```
+![github stats](https://github-readme-stats.vercel.app/api?username=LuisBall96&show_icons=true)
+<a href="https://github.com/LuisBall96">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisBall96&layout=compact" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
