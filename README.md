@@ -9,7 +9,7 @@ const Luis = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Express, Sequelize],
-  databases: [PostgreSQL]
+  databases: [PostgreSQL, MySQL]
 }
 ```
 ![github stats](https://github-readme-stats.vercel.app/api?username=LuisBall96&show_icons=true)
