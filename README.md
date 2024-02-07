@@ -7,9 +7,9 @@
 ```javascript
 const Luis = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Express, Sequelize],
-  databases: [PostgreSQL, MySQL]
+  code: [TypeScript],
+  tools: [Node, NestJs, GraphQL, TypeOrm, Sequelize],
+  databases: [PostgreSQL, MySQL, MsSql, MongoDB]
 }
 ```
 ![github stats](https://github-readme-stats.vercel.app/api?username=LuisBall96&show_icons=true)
