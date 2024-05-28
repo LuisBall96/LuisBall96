@@ -7,8 +7,8 @@
 ```javascript
 const Luis = {
   pronouns: "he" | "him",
-  code: [TypeScript, JavaScript],
-  tools: [Node, NestJs, GraphQL, TypeOrm, Sequelize],
+  code: [Java, JavaScript, TypeScript],
+  tools: [Node, Cypress, Selenium, Cucumber, NestJs, GraphQL, TypeOrm, Sequelize],
   databases: [PostgreSQL, MySQL, MsSql, MongoDB]
 }
 ```
