@@ -1,5 +1,6 @@
 ### Hello World, i'm Luis Ballesteros👋
 *Backend Developer*
+*QA Tester*
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luis_Ballesteros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/luis-fernando-ballesteros-ballesteros](https://www.linkedin.com/in/luis-fernando-ballesteros-ballesteros-48071320a/))](https://www.linkedin.com/in/luis-fernando-ballesteros-ballesteros-48071320a/)  [![Outlook Badge](https://img.shields.io/badge/-luisballesteros96@outlook.es-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:luisballesteros96@outlook.es)](mailto:luisballesteros96@outlook.es)
@@ -7,8 +8,8 @@
 ```javascript
 const Luis = {
   pronouns: "he" | "him",
-  code: [JavaScript, TypeScript],
-  tools: [Node, NestJs, GraphQL, TypeOrm, Mongoose],
+  code: [JavaScript, TypeScript, Java],
+  tools: [Node, NestJs, GraphQL, TypeOrm, Mongoose, Cypress, Selenium, SerenityBDD],
   databases: [PostgreSQL, MySQL, MsSql, MongoDB]
 }
 ```
